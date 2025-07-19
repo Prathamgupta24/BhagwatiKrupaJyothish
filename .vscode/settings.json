@@ -1,0 +1,17 @@
+{
+    "html.format.indentInnerHtml": true,
+    "html.format.indentHandlebars": true,
+    "css.validate": true,
+    "scss.validate": true,
+    "javascript.validate.enable": true,
+    "emmet.includeLanguages": {
+        "javascript": "javascriptreact"
+    },
+    "files.associations": {
+        "*.css": "css",
+        "*.js": "javascript"
+    },
+    "liveServer.settings.donotShowInfoMsg": true,
+    "liveServer.settings.port": 5500,
+    "liveServer.settings.donotVerifyTags": true
+}
